@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SelfStudyIo/SelfStudyIo.iml" filepath="$PROJECT_DIR$/SelfStudyIo/SelfStudyIo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfStudyStream/SelfStudyStream.iml" filepath="$PROJECT_DIR$/SelfStudyStream/SelfStudyStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-classdemo-Collections/day10-classdemo-Collections.iml" filepath="$PROJECT_DIR$/day10-classdemo-Collections/day10-classdemo-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-studydemo-Collections/day10-studydemo-Collections.iml" filepath="$PROJECT_DIR$/day10-studydemo-Collections/day10-studydemo-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-classdemo-Set/day11-classdemo-Set.iml" filepath="$PROJECT_DIR$/day11-classdemo-Set/day11-classdemo-Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-studydemo-Set/day11-studydemo-Set.iml" filepath="$PROJECT_DIR$/day11-studydemo-Set/day11-studydemo-Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-classdemo-HashSet_Map/day12-classdemo-HashSet_Map.iml" filepath="$PROJECT_DIR$/day12-classdemo-HashSet_Map/day12-classdemo-HashSet_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-studydemo-HashSet_Map/day12-studydemo-HashSet_Map.iml" filepath="$PROJECT_DIR$/day12-studydemo-HashSet_Map/day12-studydemo-HashSet_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-studydemo-stream/day13-studydemo-stream.iml" filepath="$PROJECT_DIR$/day13-studydemo-stream/day13-studydemo-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-classdemo-char_byte_stream/day14-classdemo-char_byte_stream.iml" filepath="$PROJECT_DIR$/day14-classdemo-char_byte_stream/day14-classdemo-char_byte_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" filepath="$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" />
     </modules>
   </component>
 </project>

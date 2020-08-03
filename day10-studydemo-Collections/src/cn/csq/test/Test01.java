@@ -1,6 +1,8 @@
 package cn.csq.test;
 
-import java.util.Collection;
+
+import java.util.HashMap;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * @ClassName : Test01
@@ -9,6 +11,7 @@ import java.util.Collection;
  */
 public class Test01 {
     public static void main(String[] args) {
-
+        CopyOnWriteArrayList<String> strings = new CopyOnWriteArrayList<>();
+        HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
     }
 }
