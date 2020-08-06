@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/day13-studydemo-stream/day13-studydemo-stream.iml" filepath="$PROJECT_DIR$/day13-studydemo-stream/day13-studydemo-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day14-classdemo-char_byte_stream/day14-classdemo-char_byte_stream.iml" filepath="$PROJECT_DIR$/day14-classdemo-char_byte_stream/day14-classdemo-char_byte_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" filepath="$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-io/day15-io.iml" filepath="$PROJECT_DIR$/day15-io/day15-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-thread01/day16-thread01.iml" filepath="$PROJECT_DIR$/day16-thread01/day16-thread01.iml" />
     </modules>
   </component>
 </project>
