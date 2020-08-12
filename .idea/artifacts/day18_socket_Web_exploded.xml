@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day18-socket:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/day18_socket_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day18-socket/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day18-socket" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-io-2.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/8.8commodity-management-system/8.8commodity-management-system.iml" filepath="$PROJECT_DIR$/8.8commodity-management-system/8.8commodity-management-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/SelfStudyIo/SelfStudyIo.iml" filepath="$PROJECT_DIR$/SelfStudyIo/SelfStudyIo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SelfStudyStream/SelfStudyStream.iml" filepath="$PROJECT_DIR$/SelfStudyStream/SelfStudyStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-classdemo-Collections/day10-classdemo-Collections.iml" filepath="$PROJECT_DIR$/day10-classdemo-Collections/day10-classdemo-Collections.iml" />
@@ -15,6 +16,12 @@
       <module fileurl="file://$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" filepath="$PROJECT_DIR$/day14-studydemo-char_byte_stream/day14-studydemo-char_byte_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day15-io/day15-io.iml" filepath="$PROJECT_DIR$/day15-io/day15-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/day16-thread01/day16-thread01.iml" filepath="$PROJECT_DIR$/day16-thread01/day16-thread01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17-thread2/day17-thread2.iml" filepath="$PROJECT_DIR$/day17-thread2/day17-thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18-socket/day18-socket.iml" filepath="$PROJECT_DIR$/day18-socket/day18-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19-classloader-reflect/day19-classloader-reflect.iml" filepath="$PROJECT_DIR$/day19-classloader-reflect/day19-classloader-reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-xml-annotation/day20-xml-annotation.iml" filepath="$PROJECT_DIR$/day20-xml-annotation/day20-xml-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleone/moduleone.iml" filepath="$PROJECT_DIR$/moduleone/moduleone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduletwo/moduletwo.iml" filepath="$PROJECT_DIR$/moduletwo/moduletwo.iml" />
     </modules>
   </component>
 </project>

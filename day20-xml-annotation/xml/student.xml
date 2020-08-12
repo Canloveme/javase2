@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--注释内容-->
+<!--本xml文件用于描述多个学生得信息-->
+<students>
+    <student id="1">   <!--getValue-->
+        <name>张三</name>  <!--getText-->
+        <age>18</age>
+        <!--        转义字符-->
+       <!-- <info>学生&lt;的&gt;的信息</info>
+        <message>
+            <![CDATA[ 5<6 ]]>
+        </message>-->
+    </student>
+
+    <student id="2">
+        <name>李四</name>
+        <age>20</age>
+    </student>
+</students>

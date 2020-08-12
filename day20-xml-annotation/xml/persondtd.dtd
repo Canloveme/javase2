@@ -1,0 +1,6 @@
+<!--创建dtd约束-->
+<!ELEMENT persons (person)>
+<!ELEMENT person (name,age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+
