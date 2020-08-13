@@ -19,9 +19,11 @@
       <module fileurl="file://$PROJECT_DIR$/day17-thread2/day17-thread2.iml" filepath="$PROJECT_DIR$/day17-thread2/day17-thread2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day18-socket/day18-socket.iml" filepath="$PROJECT_DIR$/day18-socket/day18-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/day19-classloader-reflect/day19-classloader-reflect.iml" filepath="$PROJECT_DIR$/day19-classloader-reflect/day19-classloader-reflect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day20-xml-annotation/day20-xml-annotation.iml" filepath="$PROJECT_DIR$/day20-xml-annotation/day20-xml-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-xml/day20-xml1.iml" filepath="$PROJECT_DIR$/day20-xml/day20-xml1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21-enum-annotation-junit-logging/day21-enum-annotation-junit-logging.iml" filepath="$PROJECT_DIR$/day21-enum-annotation-junit-logging/day21-enum-annotation-junit-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduleone/moduleone.iml" filepath="$PROJECT_DIR$/moduleone/moduleone.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduletwo/moduletwo.iml" filepath="$PROJECT_DIR$/moduletwo/moduletwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
     </modules>
   </component>
 </project>
