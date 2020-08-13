@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE persons[
+        <!ELEMENT persons (person+)>
+        <!ELEMENT person (name,age)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>
+        ]>
+<persons>
+    <person>
+        <name></name>
+        <age></age>
+    </person>
+</persons>

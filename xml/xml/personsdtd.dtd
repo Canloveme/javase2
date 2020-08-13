@@ -1,0 +1,10 @@
+<!--创建dtd约束-->
+        <!ELEMENT persons (person+)>
+        <!ELEMENT person (name,sex,town,math,eng,birthday)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT sex (#PCDATA)>
+        <!ELEMENT town (#PCDATA)>
+        <!ELEMENT math (#PCDATA)>
+        <!ELEMENT eng (#PCDATA)>
+        <!ELEMENT birthday (#PCDATA)>
+        <!ATTLIST person id CDATA #REQUIRED>

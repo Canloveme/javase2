@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE persons SYSTEM 'homeworkpersondtd.dtd'>
+<!--
+1.要求将英语+数学部分大于150分的人员信息打印出来(姓名)
+
+2.统计每个城区的参考人数
+打印结果格式如下
+东城区： 2人
+XXX区： 1人
+XXX区： 3人
+
+3.统计数学成绩第2高的学员信息
+打印结果格式如下：
+姓名:xxxx   数学成绩:xxx分
+
+4.根据生日，推算每人现在的年龄
+打印结果格式如下：
+姓名:xxxx   年龄：28岁
+姓名:xxxx   年龄：22岁
+姓名:xxxx   年龄：23岁
+
+5.统计男、女生参加英语考试的人数
+打印结果格式如下：
+男生：xx人
+女生: xx人
+-->
+<persons>
+        <person id="1001">
+            <name>徐俊峰</name>
+            <sex>男</sex>
+            <town>东城区</town>
+            <math>88</math>
+            <eng>92</eng>
+            <birthday>1990-02-15</birthday>
+        </person>
+
+
+        <person id="1002">
+            <name>蒋海正</name>
+            <sex>男</sex>
+            <town>东城区</town>
+            <math>75</math>
+            <eng>80</eng>
+            <birthday>1994-08-03</birthday>
+        </person>
+
+
+        <person id="1003">
+            <name>庄小明</name>
+            <sex>男</sex>
+            <town>石景山区</town>
+            <math>69</math>
+            <eng>56</eng>
+            <birthday>1984-10-10</birthday>
+        </person>
+
+
+        <person id="1004">
+            <name>孙莉莉</name>
+            <sex>女</sex>
+            <town>丰台区</town>
+            <math>46</math>
+            <eng>NULL</eng>
+            <birthday>1989-08-11</birthday>
+        </person>
+
+        <person id="1005">
+            <name>江晓云</name>
+            <sex>女</sex>
+            <town>西城区</town>
+            <math>53</math>
+            <eng>78</eng>
+            <birthday>1998-01-16</birthday>
+        </person>
+
+        <person id="1006">
+            <name>汤广凤</name>
+            <sex>女</sex>
+            <town>东城区</town>
+            <math>82</math>
+            <eng>93</eng>
+            <birthday>1982-10-10</birthday>
+        </person>
+</persons>
